@@ -1,0 +1,1 @@
+To access the config file, Change the directory located in the ConfigParams class to the location that suits your machine
